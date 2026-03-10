@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-### 📬 Contact
-
 <div align="center">
   <a href="https://discord.com/users/697420264505606175" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25"/>
