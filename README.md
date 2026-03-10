@@ -1,5 +1,26 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
+### 📬 Contact
+
+<div align="center">
+  <a href="https://discord.com/users/697420264505606175" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  <a href="mailto://adam.benahmeed@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adam-benahmed-a18bb5383/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  <a href="https://signal.me/#p/+33744577658" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+</div>
+
+---
+
+### 👍 About Me
+
 I am Adam, a computer science student and developer passionate about low-level technologies, systems programming and building efficient software.
 
 I enjoy designing and implementing projects from scratch, exploring how things work internally - whether it's game engines, backend systems, networking infrastructure or developer tools.
@@ -52,25 +73,6 @@ My work focuses on experimentation, performance, and learning through real-world
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" alt="vscode logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="46" alt="visualstudio logo"/>
-</div>
-
----
-
-### 📬 Contact
-
-<div align="center">
-  <a href="https://discord.com/users/697420264505606175" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="mailto://adam.benahmeed@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adam-benahmed-a18bb5383/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://signal.me/#p/+33744577658" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
 </div>
 
 ---
