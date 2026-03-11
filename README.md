@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/adam-benahmed-a18bb5383/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  <a href="https://signal.me/#p/+33744577658" target="_blank">
+  <a href="https://signal.me/#eu/rZ4qK7mINfE8GeRBf8fX771S6THIZ-cFA7BR4AFUA2mLxqG3yUhNFIwTY6koXXnR" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
