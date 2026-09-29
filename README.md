@@ -64,7 +64,7 @@ public:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,php,flutter,html,js,linux,git,vscode&perline=15&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,php,nodejs,flutter,html,css,docker,linux,git,vscode&perline=15&theme=dark)](https://skillicons.dev)
 
 </div>
 
